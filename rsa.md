@@ -20,11 +20,11 @@ In this task you are given components for constructing the RSA public and privat
 
 
 
-Use any of your preferred programming language with a suitable crypto library and decrypt the cypher text using the **private key** constructed from given components and ontain the plain text message (`m`) in hex encoding. 
-
-Convert the `m` from hex encoding to [ascii encoding](https://en.wikipedia.org/wiki/ASCII) and obtain the string `s`. Finally, send us the resulting string `s`. 
+Use any of your preferred programming language with a suitable crypto library and decrypt the cypher text using the **private key** constructed from given components and obtain the plain text message (`m`) in hex encoding. 
 
 `m = # you find this out`
+
+Convert the `m` from hex encoding to [ascii encoding](https://en.wikipedia.org/wiki/ASCII) and obtain the string `s`. Finally, send us the resulting string `s`. 
 
 `s = # send us this in your email`
 
